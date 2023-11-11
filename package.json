@@ -1,0 +1,8 @@
+{
+  "name": "odin-etch-a-sketch",
+  "version": "1.0.0",
+  "packageManager": "yarn@4.0.1",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
